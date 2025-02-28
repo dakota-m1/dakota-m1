@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: new projects as a new jr grad
 - 📫 How to reach me: dakotamorriseaucade@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i am left-handed and can speak 2 languages
+- ⚡ Fun fact: i am left-handed
 
 <!---
 dakota-m1/dakota-m1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
